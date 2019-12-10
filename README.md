@@ -1,5 +1,5 @@
 # <p align="center"><img src="https://i.imgur.com/ioaaQR9.png" alt="Vue logo" width="500"></p>
-This project is a web application developed during the 2nd year in the [Web Information Systems and Technologies](https://www.esmad.ipp.pt/courses/degree/400001419) course for the Web Programming I subject at [ESMAD](https://www.esmad.ipp.pt/). The main objective is to develop an app that allows users to enroll in school events which were created by teachers or admins.
+This project is a web application developed during the 2nd year in the [Web Information Systems and Technologies](https://www.esmad.ipp.pt/courses/degree/400001419) course for the Web Programming I subject at [ESMAD](https://www.esmad.ipp.pt/). The main objective was to develop an app that allowed users to enroll in school events which were created by teachers or admins.
 
 ### Mockups
 It was used [Adobe Xd](https://www.adobe.com/pt/products/xd.html) to develop the application's mockups, as it allows a better app prototype, because of the interactions that can be created, simulating the real app.
