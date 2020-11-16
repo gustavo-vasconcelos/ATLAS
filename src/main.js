@@ -10,7 +10,7 @@ import 'material-icons/iconfont/material-icons.css'
 import axios from 'axios'
 
 const http = axios.create({
-  baseURL: "https://api.atlasapp.xyz",
+  baseURL: "https://atlas-vue-server.herokuapp.com/",
 });
 
 Vue.prototype.$http = http

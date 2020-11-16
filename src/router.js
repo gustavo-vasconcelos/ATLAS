@@ -170,7 +170,7 @@ const router = new Router({
 import store from "@/store/store.js"
 import axios from "axios"
 const http = axios.create({
-  baseURL: "https://api.atlasapp.xyz",
+  baseURL: "https://atlas-vue-server.herokuapp.com/",
 })
 
 router.beforeEach(async (to, from, next) => {
